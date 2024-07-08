@@ -5,7 +5,7 @@ This program extracts audio from a video file, transcribes the audio using OpenA
 
 ### Step 1: Install Python
 
-1. Download Python from the official website: [Python Downloads](https://www.python.org/downloads/)
+1. Download Python from the official website: [Python Downloads](https://www.python.org/downloads/release/python-3124/)
 2. Follow the installation instructions for your operating system.
 3. Make sure to check the box that says "Add Python to PATH" during the installation.
 
