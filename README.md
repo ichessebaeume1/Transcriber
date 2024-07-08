@@ -21,6 +21,9 @@ pip install -r requirements.txt
 ```
 
 ### Step 3: Run the program
-1. Type the following into the terminal or command prompt: py transcriber.py
+1. Run the following command to start the program:
+```bash
+python3 transcriber.py
+```
 2. Put in the path to the video you want to transcribe and hit enter.
 3. Wait.
